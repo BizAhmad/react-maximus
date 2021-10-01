@@ -1,3 +1,4 @@
+import './ExpensesFilter.css';
 
 const ExpensesFilter = (props) => {
     const filterHandler = (event) => {
